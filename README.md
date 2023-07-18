@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **C#, .NET**
+- 💬 Ask me about **C# .NET**
 
 - 📫 How to reach me **abdulvosidfoziljonov55@gmail.com**
 
