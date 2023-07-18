@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/foziljonov7" target="blank"><img src="https://img.shields.io/twitter/follow/foziljonov7?logo=twitter&style=for-the-badge" alt="foziljonov7" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m learning **.NET**
 
 - 💬 Ask me about **C# .NET**
 
