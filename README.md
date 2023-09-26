@@ -2,7 +2,7 @@
 🌱 I’m currently learning Learning .NET MAUI, DevOps and a lot more tech stuff.<br><br>💬 Ask me about C#, ASP.NET<br><br>📫 How to reach me abdulvosidfoziljonov55@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Social Netmorks:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3389) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/foziljonov7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foziljonov777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/foziljononv7) 
 
 # 💻 Tech Stack:
