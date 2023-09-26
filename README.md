@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Abdulvosid
 🌱 I’m currently learning Learning .NET MAUI, DevOps and a lot more tech stuff.<br><br>💬 Ask me about C#, ASP.NET<br><br>📫 How to reach me abdulvosidfoziljonov55@gmail.com
 
 
