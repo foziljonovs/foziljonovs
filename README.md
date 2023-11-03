@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulvosid</h1>
-<h3 align="center">A BeckEnd developer with big goals</h3>
+<h3 align="center">A BeckEnd developer with big goals </h3>
 
 - 🔭 I’m currently working on [Traveloo](github.com/foziljonov7/Traveloo)
 
