@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Abdulvosid, 18 years old</h1>
+<h1 align="center">Hi 👋, my name is Abdulvosid</h1>
 <h3 align="center"> A programmer from Uzbekistan. </h3>
 
 - 🔭 I’m currently working on [Traveloo](github.com/foziljonov7/Traveloo)
