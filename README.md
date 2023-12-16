@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Abdulvosid</h1>
 <h3 align="center"> Software engineer </h3>
 
-- 🔭 I’m currently working on [Traveloo](github.com/foziljonov7/Traveloo)
+- 🔭 I’m currently working on [Edu](https://github.com/foziljonov7/Edu)
 
 - 🌱 I’m currently learning **.NET MAUI, DevOps and a lot more tech stuff.**
 
