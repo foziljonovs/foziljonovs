@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, my name is Abdulvosid</h1>
 <h3 align="center"> Software engineer </h3>
 
-- 🔭 I’m currently working on [Edu](https://github.com/foziljonov7/Edu)
-
 - 🌱 I’m currently learning **.NET MAUI, DevOps and a lot more tech stuff.**
 
 - 👨‍💻 All of my projects are available at [github.com/foziljonov7](github.com/foziljonov7)
