@@ -2,7 +2,7 @@
 <h3 align="center"> Software engineer </h3>
 
 ## 👨🏻‍💻 Me now
-🌱 I’m currently learning .NET MAUI, DevOps and a lot more tech stuff.<br>💬 Ask me about C#, .NET<br>📫 How to reach me abdulvosidfoziljonov55@gmail.com
+🌱 Learning .NET MAUI, DevOps and a lot more tech stuff.<br>💬 Ask me about C#, .NET<br>📫 How to reach me abdulvosidfoziljonov55@gmail.com
 
 
 ## 🌐 Socials:
