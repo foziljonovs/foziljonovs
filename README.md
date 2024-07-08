@@ -1,4 +1,4 @@
-<img src="Снимок_экрана_2024-07-08_221721-removebg-preview.png" align="right" height="200"/>
+<img src="Снимок_экрана_2024-07-08_221721-removebg-preview.png" align="right" height="160"/>
 
 # Hi there, I'm Abdulvosid 👋
 
