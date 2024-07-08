@@ -1,14 +1,43 @@
-<h1 align="center">Hi 👋, my name is Abdulvosid</h1>
-<h3 align="center"> Software engineer </h3>
+<img src="Снимок_экрана_2024-07-08_221721-removebg-preview.png" align="right" height="200"/>
 
-## 👨🏻‍💻 Me now
-🌱 Learning .NET MAUI, DevOps and a lot more tech stuff.<br>💬 Ask me about C#, .NET<br>📫 How to reach me abdulvosidfoziljonov55@gmail.com
+# Hi there, I'm Abdulvosid 👋
 
+> A software engineer at RTM Center, dedicated to building high-quality, innovative software solutions. With a strong foundation in software development and a keen interest in continuous learning, I strive to create impactful projects that make a difference.
+<br/><br/><br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/foziljonov7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foziljonov777) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdulvosidfoziljonov) 
+<p align="end">
+<a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a> 
+<a href="https://www.linkedin.com/in/foziljonov7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://t.me/AFoziljonov_Blog"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://instagram.com/foziljonov777"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+</p>
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
+<h1> 👨🏻‍💻 Me now </h1>
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a Software Engineer at Codium
+- 👨‍🏫 &nbsp; Teaching programming at RTM
+- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/AFoziljonov_Blog)
+- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
+- 📫 &nbsp; Reach me at: abdulvosidfoziljonov55@gmail.com
 
+<br/>
+
+<h1>🛠 Me Stack</h1>
+
+- 💻 &nbsp;| `.cpp` | `.cs` | `.yml` | `.html` | `.css` | `.js`
+- 🌐 &nbsp; .NET 8/7/6 | MVC | Blazor | WebApi | Microservice
+- 🕸 &nbsp; Bootstrap | HTML5 | CSS
+- 🛢 &nbsp; SqlServer | PostgreSql
+- ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
+
+<br/>
+
+<h1>Me Stats</h1>
+
+<div align="center">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidustoz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+<div>
+ <br/>
