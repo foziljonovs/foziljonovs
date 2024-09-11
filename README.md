@@ -2,7 +2,6 @@
 
 # Hi there, I'm Abdulvosid 👋
 
-
 > A software engineer at RTM Center, dedicated to building high-quality, innovative software solutions. With a strong foundation in software development and a keen interest in continuous learning, I strive to create impactful projects that make a difference.
 <br/><br/><br/>
 
