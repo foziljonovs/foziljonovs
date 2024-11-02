@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi there, I'm Abdulvosid 👋
+<h1 style="font-size: 48px;"> Hi there, I'm Abdulvosid 👋</h1>
   
   I'm a dedicated software engineer at **Smart Partners**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
   
