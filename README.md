@@ -1,19 +1,20 @@
-
-# Hi there, I'm Abdulvosid 👋
-
-I'm a dedicated software engineer at **Smart Partners**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/foziljonov7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/AFoziljonov_Blog"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-  <a href="https://instagram.com/foziljonov777"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-</p>
-
----
+<div align="center">
+  # Hi there, I'm Abdulvosid 👋
+  
+  I'm a dedicated software engineer at **Smart Partners**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
+  
+  ---
+  
+  ### 🔗 Connect with me
+  <p>
+    <a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/foziljonov7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/AFoziljonov_Blog"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+    <a href="https://instagram.com/foziljonov777"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  </p>
+  
+  ---
+</div>
 
 ### 👨🏻‍💻 About Me
 - 🔍 Exploring new technologies and building software solutions.
