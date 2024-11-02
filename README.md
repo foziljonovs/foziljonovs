@@ -3,8 +3,6 @@
   
   I'm a dedicated software engineer at **Smart Partners**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
   
-  ---
-  
   ### 🔗 Connect with me
   <p>
     <a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white"></a>
