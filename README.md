@@ -28,6 +28,7 @@
 - **Web**: Bootstrap, HTML5, CSS
 - **Databases**: SQL Server, PostgreSQL
 - **DevOps & Tools**: Git, Bash, Docker, Docker Compose, GitHub Actions
+- **Deployment Environments**: Linux, Windows
 
 ---
 
