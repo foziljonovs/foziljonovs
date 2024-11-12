@@ -16,7 +16,7 @@
 ### 👨🏻‍💻 About Me
 - 🔍 Exploring new technologies and building software solutions.
 - 💼 Software Engineer at **Smart Partners**.
-- ✍️ Sharing insights on [my Telegram blog](https://t.me/AFoziljonov_Blog).
+- ✍️ Sharing insights on [my Telegram blog](https://t.me/foziljonovs_tweet).
 - 🌱 Currently learning **.NET MAUI**, **DevOps**, and more.
 - 📫 Contact: [abdulvosidfoziljonov55@gmail.com](mailto:abdulvosidfoziljonov55@gmail.com)
 
@@ -35,6 +35,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/foziljonovs">
-    <img src="https://github-readme-stats.vercel.app/api?username=foziljonovs&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=007bff&icon_color=007bff&bg_color=171c28" alt="Abdulvosid's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=foziljonovs&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=007bff&icon_color=007bff&bg_color=171c28" alt="foziljonov's GitHub stats"/>
   </a>
 </div>
