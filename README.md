@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/foziljonovs">
-    <img src="https://github-readme-stats.vercel.app/api?username=foziljonovs&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=007bff&icon_color=007bff&bg_color=171c28&langs_count=10" alt="foziljonov's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=foziljonovs&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=007bff&icon_color=007bff&bg_color=171c28&langs_count=10&hide=prs" alt="foziljonov's GitHub stats"/>
   </a>
 </div>
 
