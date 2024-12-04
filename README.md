@@ -34,9 +34,6 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=foziljonovs&theme=react&border=61dafb&hide_border=true" alt="foziljonovs" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=foziljonovs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
