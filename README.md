@@ -15,19 +15,19 @@
 
 ### 👨🏻‍💻 About Me
 - 🔍 Exploring new technologies and building software solutions.
-- 💼 Software Engineer at **Smart Partners**.
+- 💼 Software Engineer & Foundation Mentor at **RTM**.
 - ✍️ Sharing insights on [my Telegram blog](https://t.me/foziljonovs_tweet).
-- 🌱 Currently learning **.NET MAUI**, **DevOps**, and more.
-- 📫 Contact: [abdulvosidfoziljonov55@gmail.com](mailto:abdulvosidfoziljonov55@gmail.com)
+- 🌱 Currently learning **.NET**, **DevOps**, and more.
+- 📫 Contact: [abdulvosidfoziljonov55@gmail.com](mailto:abdulvosidfoziljonov2@gmail.com)
 
 ---
 
 ### 🛠 Tech Stack
 - **Languages**: `.cpp` | `.cs` | `.yml` | `.html` | `.css` | `.js`
-- **Frameworks**: .NET 8/7/6, WPF, MVC, Blazor, Web API
-- **Web**: Bootstrap, HTML5, CSS
-- **Databases**: SQL Server, PostgreSQL
-- **DevOps & Tools**: Git, Bash, Docker, Docker Compose, GitHub Actions
+- **Frameworks**: .NET 9/8/7/6, WPF, MVC, Blazor, Web API
+- **Web**: Bootstrap, HTML5, CSS, JS
+- **Databases**: SQL Server, PostgreSQL, MongoDB
+- **DevOps & Tools**: Git, Bash, Docker, Docker Compose, GitHub Actions, IIS
 - **Deployment Environments**: Linux, Windows
 
 ---
