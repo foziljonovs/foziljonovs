@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="font-size: 48px;"> Hi there, I'm Abdulvosid 👋</h1>
   
-  I'm a dedicated software engineer at **Smart Partners**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
+  I'm a dedicated software engineer and mentor at **RTM**, passionate about building high-quality, innovative software solutions. I have a solid foundation in software development and continuously seek out new learning opportunities to enhance my skills. I strive to create impactful projects that make a difference.
   
   <p>
     <a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white"></a>
