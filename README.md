@@ -24,7 +24,7 @@
 
 ### 🛠 Tech Stack
 - **Languages**: `.cpp` | `.cs` | `.yml` | `.html` | `.css` | `.js`
-- **Frameworks**: .NET 9/8/7/6, WPF, MVC, Blazor, Web API
+- **Frameworks**: .NET 9/8, WPF, MVC, Blazor, Web API
 - **Web**: Bootstrap, HTML5, CSS, JS
 - **Databases**: SQL Server, PostgreSQL, MongoDB
 - **DevOps & Tools**: Git, Bash, Docker, Docker Compose, GitHub Actions, IIS
