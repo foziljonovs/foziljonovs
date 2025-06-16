@@ -7,7 +7,7 @@
     <a href="https://dev.to/foziljonov7"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/abdulvosid-foziljonov-551965342/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="https://t.me/AFoziljonov_Blog"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-    <a href="https://instagram.com/foziljonov777"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+    <a href="https://instagram.com/foziljonovs_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   </p>
   
   ---
@@ -15,10 +15,10 @@
 
 ### 👨🏻‍💻 About Me
 - 🔍 Exploring new technologies and building software solutions.
-- 💼 Software Engineer & Foundation Mentor at **RTM**.
+- 💼 Software Engineer at **RTM**.
 - ✍️ Sharing insights on [my Telegram blog](https://t.me/foziljonovs_tweet).
 - 🌱 Currently learning **.NET**, **DevOps**, and more.
-- 📫 Contact: [abdulvosidfoziljonov55@gmail.com](mailto:abdulvosidfoziljonov2@gmail.com)
+- 📫 Contact: [abdulvosidfoziljonov2@gmail.com](mailto:abdulvosidfoziljonov2@gmail.com)
 
 ---
 
